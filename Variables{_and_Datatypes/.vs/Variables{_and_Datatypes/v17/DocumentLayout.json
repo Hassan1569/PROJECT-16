@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Teacher\\Music\\PR2-202307B\\Variables{_and_Datatypes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC804E8-DC5C-4CFD-89C2-08862B6EC7C9}|Variables{_and_Datatypes\\Variables{_and_Datatypes.csproj|c:\\users\\teacher\\music\\pr2-202307b\\variables{_and_datatypes\\variables{_and_datatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EC804E8-DC5C-4CFD-89C2-08862B6EC7C9}|Variables{_and_Datatypes\\Variables{_and_Datatypes.csproj|solutionrelative:variables{_and_datatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Teacher\\Music\\PR2-202307B\\Variables{_and_Datatypes\\Variables{_and_Datatypes\\Program.cs",
+              "RelativeDocumentMoniker": "Variables{_and_Datatypes\\Program.cs",
+              "ToolTip": "C:\\Users\\Teacher\\Music\\PR2-202307B\\Variables{_and_Datatypes\\Variables{_and_Datatypes\\Program.cs",
+              "RelativeToolTip": "Variables{_and_Datatypes\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T05:02:04.674Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

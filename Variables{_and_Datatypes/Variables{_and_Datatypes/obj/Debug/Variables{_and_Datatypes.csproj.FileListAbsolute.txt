@@ -1,0 +1,7 @@
+C:\Users\Teacher\Music\PR2-202307B\Variables{_and_Datatypes\Variables{_and_Datatypes\bin\Debug\Variables{_and_Datatypes.exe.config
+C:\Users\Teacher\Music\PR2-202307B\Variables{_and_Datatypes\Variables{_and_Datatypes\bin\Debug\Variables{_and_Datatypes.exe
+C:\Users\Teacher\Music\PR2-202307B\Variables{_and_Datatypes\Variables{_and_Datatypes\bin\Debug\Variables{_and_Datatypes.pdb
+C:\Users\Teacher\Music\PR2-202307B\Variables{_and_Datatypes\Variables{_and_Datatypes\obj\Debug\Variables{_and_Datatypes.csproj.AssemblyReference.cache
+C:\Users\Teacher\Music\PR2-202307B\Variables{_and_Datatypes\Variables{_and_Datatypes\obj\Debug\Variables{_and_Datatypes.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Music\PR2-202307B\Variables{_and_Datatypes\Variables{_and_Datatypes\obj\Debug\Variables{_and_Datatypes.exe
+C:\Users\Teacher\Music\PR2-202307B\Variables{_and_Datatypes\Variables{_and_Datatypes\obj\Debug\Variables{_and_Datatypes.pdb
